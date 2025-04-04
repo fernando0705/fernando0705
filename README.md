@@ -13,7 +13,7 @@
 </ul>
 
 <h1 id="pensa_comp"> Pensamento Computacional </h1>
-<li>2025</li>
+<li><a href="https://sites.google.com/d/1QHbDAkGmi97MX0PQf_DumvorNPsfrzac/p/1kmTcwOS9bV0tPzmp1mFZ0Q43tIqH2PGS/edit">2025</a></li>
 
 <h1>Certificados</h1>
 
